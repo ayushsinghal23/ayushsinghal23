@@ -109,9 +109,6 @@ print(me)  # Ayush Singhal | Full Stack Developer
   <img src="https://raw.githubusercontent.com/ayushsinghal23/ayushsinghal23/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
-> **Note:** To enable the snake animation, add this GitHub Action to your profile repo:
-> `.github/workflows/snake.yml` → see [Platane/snk](https://github.com/Platane/snk)
-
 ---
 
 ## 💭 Dev Quote of the Day
