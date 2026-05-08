@@ -1,231 +1,311 @@
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░  ayushsinghal23 — GitHub Profile README                     ░ -->
+<!-- ░  Built with code, not templates.                            ░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:0a1628,100:0d1117&height=200&section=header&text=Ayush%20Singhal&fontSize=50&fontColor=00d8ff&animation=fadeIn&fontAlignY=45&stroke=00d8ff&strokeWidth=2&desc=Full%20Stack%20Developer%20%7C%20React%20%E2%9A%9B%EF%B8%8F%20%7C%20FastAPI%20%F0%9F%9A%80%20%7C%20PostgreSQL%20%F0%9F%90%98&descSize=15&descAlignY=65&descColor=8b949e" width="100%"/>
+```
+   ╔══════════════════════════════════════════════════════════╗
+   ║                                                          ║
+   ║            █████╗ ██╗   ██╗██╗   ██╗███████╗██╗  ██╗     ║
+   ║           ██╔══██╗╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║     ║
+   ║           ███████║ ╚████╔╝ ██║   ██║███████╗███████║     ║
+   ║           ██╔══██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║     ║
+   ║           ██║  ██║   ██║   ╚██████╔╝███████║██║  ██║     ║
+   ║           ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝     ║
+   ║                                                          ║
+   ║            ███████╗██╗███╗   ██╗ ██████╗██╗  ██╗          ║
+   ║            ██╔════╝██║████╗  ██║██╔════╝██║  ██║          ║
+   ║            ███████╗██║██╔██╗ ██║██║  ███████████║          ║
+   ║            ╚════██║██║██║╚██╗██║██║   ██╔══██║██║          ║
+   ║            ███████║██║██║ ╚████║╚██████╔██║  ██║██║        ║
+   ║            ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝╚═╝     ║
+   ║                                                          ║
+   ║              Full Stack Developer · India 🇮🇳              ║
+   ║                                                          ║
+   ╚══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=60&lines=%24+whoami+→+Full+Stack+Developer;%24+cat+stack.txt+→+React+%2B+FastAPI+%2B+PostgreSQL" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+---
+
+## `> whoami`
+
+```python
+#!/usr/bin/env python3
+"""ayushsinghal23 — system profile"""
+
+class Developer:
+    """A full stack developer who ships fast and breaks things (then fixes them)."""
+
+    def __init__(self):
+        self.name       = "Ayush Singhal"
+        self.handle     = "@ayushsinghal23"
+        self.role       = "Full Stack Developer"
+        self.location   = "India 🇮🇳"
+        self.education  = "Computer Science"
+
+    @property
+    def stack(self) -> dict:
+        return {
+            "languages"  : ["Python", "TypeScript", "JavaScript", "SQL"],
+            "frontend"   : ["React", "Tailwind CSS", "Redux", "Vite"],
+            "backend"    : ["FastAPI", "REST APIs", "Pydantic", "JWT Auth"],
+            "databases"  : ["PostgreSQL", "Redis"],
+            "infra"      : ["Docker", "Nginx", "GitHub Actions", "Linux"],
+            "editor"     : "VS Code — fight me 😄",
+        }
+
+    @property
+    def currently(self) -> dict:
+        return {
+            "building"   : "Scalable full-stack applications",
+            "exploring"  : "System Design & Cloud Architecture",
+            "open_to"    : ["Freelance", "Open Source", "Collaborations"],
+        }
+
+    def daily_routine(self) -> list:
+        return [
+            "☕ Coffee",
+            "💻 Code",
+            "🐛 Debug with print()",
+            "🔁 Repeat",
+        ]
+
+me = Developer()
+assert me.stack  # if this fails, something is very wrong
+```
+
+---
+
+## `> cat tech_stack.md`
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                        T E C H   S T A C K                      │
+├──────────────────┬──────────────────┬───────────────────────────┤
+│    🎨 Frontend   │    ⚙️ Backend    │     🚀 Infra & Tools      │
+├──────────────────┼──────────────────┼───────────────────────────┤
+│  React ⚛️        │  Python 🐍       │  Docker 🐳               │
+│  TypeScript      │  FastAPI 🚀      │  GitHub Actions           │
+│  JavaScript      │  PostgreSQL 🐘   │  Nginx                    │
+│  Tailwind CSS    │  Redis           │  Linux 🐧                 │
+│  Redux           │  SQLAlchemy      │  Git                      │
+│  Vite ⚡         │  Pydantic        │  Vercel ▲                 │
+│  HTML5 / CSS3    │  JWT Auth        │  VS Code                  │
+│                  │  REST APIs       │  Postman                  │
+└──────────────────┴──────────────────┴───────────────────────────┘
+```
 
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00D8FF&center=true&vCenter=true&width=700&lines=Hello+World!+%F0%9F%91%8B+I'm+Ayush;Full+Stack+Dev+from+India+%F0%9F%87%AE%F0%9F%87%B3;React+%E2%9A%9B%EF%B8%8F+%2B+FastAPI+%F0%9F%9A%80+%2B+PostgreSQL+%F0%9F%90%98;Building+things+people+actually+use.;Open+to+collabs+%26+cool+ideas+%F0%9F%A4%9D" alt="Typing SVG" />
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-20232A?style=flat&logo=tailwindcss&logoColor=06B6D4)
+![Python](https://img.shields.io/badge/Python-20232A?style=flat&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-20232A?style=flat&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=flat&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-20232A?style=flat&logo=redis&logoColor=DC382D)
+![Docker](https://img.shields.io/badge/Docker-20232A?style=flat&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-20232A?style=flat&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-20232A?style=flat&logo=linux&logoColor=FCC624)
+![Nginx](https://img.shields.io/badge/Nginx-20232A?style=flat&logo=nginx&logoColor=009639)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=flat&logo=vite&logoColor=646CFF)
+![Vercel](https://img.shields.io/badge/Vercel-20232A?style=flat&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-20232A?style=flat&logo=postman&logoColor=FF6C37)
+![Redux](https://img.shields.io/badge/Redux-20232A?style=flat&logo=redux&logoColor=764ABC)
+
+</div>
+
+---
+
+## `> git log --oneline --graph`
+
+<div align="center">
+
+  <a href="https://github.com/ayushsinghal23">
+    <img width="49%" src="https://github-readme-stats-ayushsinghal23.vercel.app/api?username=ayushsinghal23&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&count_private=true&include_all_commits=true&ring_color=58a6ff" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ayushsinghal23">
+    <img width="49%" src="https://streak-stats.demolab.com?user=ayushsinghal23&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=10&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+  </a>
+
+</div>
+
+<div align="center">
+
+  <a href="https://github.com/ayushsinghal23">
+    <img width="35%" src="https://github-readme-stats-ayushsinghal23.vercel.app/api/top-langs/?username=ayushsinghal23&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=6" alt="Top Languages" />
+  </a>
+
+</div>
+
+> **💡** Stats not loading? It's a Vercel cold start — refresh once. Or [deploy your own instance](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) for 100% uptime.
+
+---
+
+## `> ls achievements/`
+
+<div align="center">
+
+```
+🏆 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🏆
+```
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayushsinghal23&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="trophies"/>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+---
+
+## `> htop` — Contribution Heatmap
+
+<div align="center">
+
+  <img src="https://ghchart.rshah.org/58a6ff/ayushsinghal23" alt="GitHub Contribution Chart" width="95%"/>
+
 </div>
 
 <br/>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-%40ayushsinghal23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsinghal23)&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=ayushsinghal23&style=for-the-badge&color=00d8ff&label=VISITORS)](https://github.com/ayushsinghal23)&nbsp;
-[![Followers](https://img.shields.io/github/followers/ayushsinghal23?style=for-the-badge&color=bf5af2&logo=github&label=FOLLOWERS)](https://github.com/ayushsinghal23?tab=followers)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsinghal23&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e40&area=true&area_color=58a6ff15&hide_border=true&radius=10&custom_title=%20" width="95%"/>
 
 </div>
 
 ---
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
-
-## 🧑‍💻 Who Am I?
-
-```python
-class AyushSinghal:
-    name     = "Ayush Singhal"
-    handle   = "@ayushsinghal23"
-    location = "India 🇮🇳"
-    role     = "Full Stack Developer"
-
-    stack = {
-        "frontend" : ["React ⚛️", "TypeScript", "Tailwind"],
-        "backend"  : ["FastAPI 🚀", "Python 🐍"],
-        "database" : ["PostgreSQL 🐘", "Redis"],
-        "devops"   : ["Docker", "Linux", "Git"],
-    }
-
-    currently  = "Building scalable full-stack apps"
-    learning   = "System Design & Cloud Architecture ☁️"
-    fun_fact   = "I debug with print() and I'm not sorry 😄"
-
-    def available_for(self):
-        return ["Freelance", "Open Source", "Collabs"]
-```
-
-<br clear="right"/>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushsinghal23)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayushsinghal23)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsinghal23@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d8ff?style=for-the-badge&logo=vercel&logoColor=black)](https://ayushsinghal23.vercel.app)
-
-</div>
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### 🎨 Frontend
-<div align="center">
-
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Redux](https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=764ABC)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
-
-</div>
-</td>
-
-<td valign="top" width="33%">
-
-### ⚙️ Backend
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0d1117?style=flat-square&logo=python&logoColor=red)
-![REST API](https://img.shields.io/badge/REST%20API-0d1117?style=flat-square&logo=fastapi&logoColor=00d8ff)
-![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-0d1117?style=flat-square&logo=python&logoColor=E92063)
-
-</div>
-</td>
-
-<td valign="top" width="33%">
-
-### 🚀 DevOps & Tools
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
-
-</div>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushsinghal23&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d8ff&icon_color=00d8ff&text_color=cdd9e5&border_radius=12&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsinghal23&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e2d3d&ring=00d8ff&fire=bf5af2&currStreakLabel=00d8ff&sideLabels=8b949e&dates=8b949e&border_radius=12" />
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsinghal23&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d8ff&text_color=cdd9e5&border_radius=12&langs_count=8" />
-  <img width="58%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ayushsinghal23&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d8ff&text_color=cdd9e5&border_radius=12&layout=compact" />
-</div>
-
----
-
-## 🏆 Trophy Cabinet
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushsinghal23&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsinghal23&bg_color=0d1117&color=00d8ff&line=00d8ff&point=bf5af2&area=true&area_color=00d8ff20&hide_border=true&border_radius=12&custom_title=Ayush's%20Contribution%20Graph" width="95%"/>
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten
+## `> python3 snake.py`
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushsinghal23/ayushsinghal23/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushsinghal23/ayushsinghal23/output/github-contribution-grid-snake.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushsinghal23/ayushsinghal23/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayushsinghal23/ayushsinghal23/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/ayushsinghal23/ayushsinghal23/output/github-contribution-grid-snake.svg" width="95%"/>
   </picture>
 </div>
 
+<details>
+<summary>📋 <b>Snake workflow setup</b> — click to expand</summary>
+
+Create `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ayushsinghal23
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Enable **Read and write** under **Settings → Actions → General → Workflow permissions**.
+
+</details>
+
 ---
 
-## 🎵 Spotify — Currently Vibing
+## `> cat skill_levels.json`
+
+```json
+{
+  "skills": {
+    "React ⚛️":      "████████████████████░░░░  80%",
+    "Python 🐍":      "███████████████████░░░░░  76%",
+    "FastAPI 🚀":     "█████████████████░░░░░░░  68%",
+    "PostgreSQL 🐘":  "████████████████░░░░░░░░  64%",
+    "TypeScript":     "██████████████░░░░░░░░░░  56%",
+    "Docker 🐳":      "██████████░░░░░░░░░░░░░░  40%"
+  },
+  "status": "always leveling up 📈"
+}
+```
+
+---
+
+## `> netstat` — Connect With Me
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ayushsinghal23&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d8ff&bar_color_cover=true" />
-</div>
 
-> **Setup:** Connect at [spotify-github-profile](https://spotify-github-profile.kittinanx.com/) with your Spotify — replace `uid` with your Spotify user ID.
+<a href="https://linkedin.com/in/ayushsinghal23"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/ayushsinghal23"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white&color=000000" alt="Twitter/X" /></a>&nbsp;&nbsp;
+<a href="mailto:ayushsinghal23@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;&nbsp;
+<a href="https://ayushsinghal23.vercel.app"><img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+
+</div>
 
 ---
 
-## 📅 Skill Levels
+## `> echo "open_for"`
 
 <div align="center">
 
 ```
-████████████████████████████████████████████████████
-   React ⚛️    ████████████████████░░░░  80%
-   Python 🐍   ███████████████████░░░░░  75%
-   FastAPI 🚀  █████████████████░░░░░░░  68%
-   PostgreSQL  ████████████████░░░░░░░░  64%
-   TypeScript  █████████████░░░░░░░░░░░  52%
-   Docker 🐳   ██████████░░░░░░░░░░░░░░  40%
-████████████████████████████████████████████████████
+╭─────────────────────╮  ╭─────────────────────╮  ╭─────────────────────╮
+│  💼 FREELANCE        │  │  🌐 OPEN SOURCE      │  │  🤝 COLLABORATION   │
+│                     │  │                     │  │                     │
+│  React + FastAPI    │  │  PRs always welcome  │  │  Got a cool idea?   │
+│  full-stack apps    │  │  Let's build tools   │  │  Let's talk.        │
+╰─────────────────────╯  ╰─────────────────────╯  ╰─────────────────────╯
 ```
 
 </div>
 
 ---
 
-## 💡 Dev Wisdom
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="80%"/>
-</div>
-
----
-
-## 🤝 Open To
-
 <div align="center">
 
-| 💼 Freelance Projects | 🌐 Open Source | 🤝 Collaborations |
-|:---:|:---:|:---:|
-| React & FastAPI apps | PRs always welcome | Let's build something cool |
+```
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   $ echo "Thanks for visiting! ⭐ a repo if         │
+│          you find it useful — it means a lot."       │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
 
-</div>
-
----
-
-<div align="center">
-
-### 💬 Ask me about
-`React` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `REST APIs` &nbsp;·&nbsp; `System Design` &nbsp;·&nbsp; `Full Stack Architecture`
-
-<br/>
-
-*⭐ Star some repos if you find them useful — it means a lot!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:0d1117&height=120&section=footer&stroke=00d8ff&strokeWidth=1" width="100%"/>
+[![GitHub](https://img.shields.io/badge/-%40ayushsinghal23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsinghal23)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=ayushsinghal23&style=for-the-badge&color=58a6ff&label=VISITORS)](https://github.com/ayushsinghal23)
 
 </div>
