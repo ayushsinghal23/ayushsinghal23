@@ -4,9 +4,9 @@
 
 <div align="center">
   <a href="https://github.com/ayushsinghal23"><img src="https://img.shields.io/badge/GitHub-ayushsinghal23-181717?style=for-the-badge&logo=github" /></a>&nbsp;
-  <a href="https://linkedin.com/in/ayushsinghal23"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="mailto:ayushsinghal23@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://ayushsinghal23.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ayush-singhal-6b362a177"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:ayushsinghal78955@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <!-- <a href="https://ayushsinghal23.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> -->
 </div>
 
 <br/>
