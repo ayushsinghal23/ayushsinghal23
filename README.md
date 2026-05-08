@@ -6,13 +6,13 @@
   <a href="https://github.com/ayushsinghal23"><img src="https://img.shields.io/badge/GitHub-ayushsinghal23-181717?style=for-the-badge&logo=github" /></a>&nbsp;
   <a href="https://linkedin.com/in/ayushsinghal23"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="mailto:ayushsinghal23@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://ayushsinghal23.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-10b981?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://ayushsinghal23.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=I+build+things+for+the+web+🌐;React+frontend+wizard+⚛️;FastAPI+backend+architect+🚀;Turning+ideas+into+products+💡;Let's+build+something+awesome+🤝" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&text=React%20⚛️%20%20|%20%20FastAPI%20🚀%20%20|%20%20PostgreSQL%20🐘%20%20|%20%20TypeScript&fontSize=20&fontColor=a855f7&animation=twinkling" width="100%" />
 </div>
 
 <br/>
@@ -66,17 +66,39 @@ class Ayush:
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
+## 🧠 Skills
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushsinghal23&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=ffffff&border_radius=15&count_private=true&include_all_commits=true&ring_color=ff6e96" alt="stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=ayushsinghal23&hide_border=true&background=0d1117&ring=a855f7&fire=ff6e96&currStreakLabel=06b6d4&sideLabels=ffffff&dates=8b949e&border_radius=15&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
-</div>
 
-<br/>
+**Languages**
 
-<div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsinghal23&layout=donut&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&border_radius=15&langs_count=6" alt="languages" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Backend & Database**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
 </div>
 
 <br/>
@@ -85,10 +107,32 @@ class Ayush:
 
 <br/>
 
-## 🏆 Achievements
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushsinghal23&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+  <a href="https://github.com/ayushsinghal23">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ayushsinghal23&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=ffffff&border_radius=15&count_private=true&include_all_commits=true&ring_color=ff6e96" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushsinghal23&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=ffffff&border_radius=15&count_private=true&include_all_commits=true&ring_color=ff6e96" alt="GitHub Stats" />
+    </picture>
+  </a>
+  <a href="https://github.com/ayushsinghal23">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ayushsinghal23&hide_border=true&background=0d1117&ring=a855f7&fire=ff6e96&currStreakLabel=06b6d4&sideLabels=ffffff&dates=8b949e&border_radius=15&currStreakNum=ffffff&sideNums=ffffff" />
+      <img width="49%" src="https://streak-stats.demolab.com?user=ayushsinghal23&hide_border=true&background=0d1117&ring=a855f7&fire=ff6e96&currStreakLabel=06b6d4&sideLabels=ffffff&dates=8b949e&border_radius=15&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+    </picture>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ayushsinghal23">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsinghal23&layout=donut&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&border_radius=15&langs_count=6" />
+      <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsinghal23&layout=donut&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&border_radius=15&langs_count=6" alt="Top Languages" />
+    </picture>
+  </a>
 </div>
 
 <br/>
@@ -100,7 +144,7 @@ class Ayush:
 ## 📊 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsinghal23&bg_color=0d1117&color=a855f7&line=06b6d4&point=ff6e96&area=true&area_color=a855f720&hide_border=true&radius=16&custom_title=My%20Contribution%20Graph%20✨" width="97%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsinghal23&bg_color=ffffff&color=6366f1&line=a855f7&point=ff6e96&area=true&area_color=a855f730&hide_border=true&radius=16&title_color=6366f1&custom_title=My%20Contribution%20Graph%20✨" width="97%"/>
 </div>
 
 <br/>
@@ -112,72 +156,8 @@ class Ayush:
 ## 🐍 Contributions Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushsinghal23/ayushsinghal23/output/github-contribution-grid-snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushsinghal23/ayushsinghal23/output/github-contribution-grid-snake.svg" />
-    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/ayushsinghal23/ayushsinghal23/output/github-contribution-grid-snake.svg" width="95%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/ayushsinghal23/ayushsinghal23/output/github-contribution-grid-snake.svg" alt="snake eating contributions" width="95%" />
 </div>
-
-<details>
-<summary>🔧 <b>How to set up the snake animation</b></summary>
-<br/>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ayushsinghal23
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then **Settings → Actions → General → Workflow permissions → Read and write**.
-
-</details>
-
-<br/>
-
----
-
-<br/>
-
-## 📈 Skill Levels
-
-```
-React ⚛️       ████████████████████░░░░   80%
-Python 🐍      ███████████████████░░░░░   76%
-FastAPI 🚀     █████████████████░░░░░░░   68%
-PostgreSQL 🐘  ████████████████░░░░░░░░   64%
-TypeScript     ██████████████░░░░░░░░░░   56%
-Docker 🐳      ██████████░░░░░░░░░░░░░░   40%
-```
-
 <br/>
 
 ---
